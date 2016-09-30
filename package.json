@@ -1,5 +1,5 @@
 {
-  "name": "hexo-server",
+  "name": "@lewiscowper/hexo-server",
   "version": "0.2.0",
   "description": "Server module of Hexo.",
   "main": "index",
